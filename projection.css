@@ -1,0 +1,18 @@
+html {
+    background-color: #000;
+}
+
+body {
+    font-family: Arial, "MS Trebuchet", sans-serif;
+    overflow: hidden;
+}
+
+.content {
+    position: relative;
+}
+
+#scene {
+    position: relative;
+    background-color: white;
+}
+
